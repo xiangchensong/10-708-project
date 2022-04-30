@@ -15,5 +15,5 @@ datasets/
 ```
 To reproduce the experiment we reported in the paper, simply run
 ```bash
-bash run.sh
+bash run_ab.sh
 ```
